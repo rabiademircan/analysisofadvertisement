@@ -1,0 +1,23 @@
+Description of the generated data:
+
+Year and Month: Represent the time period of the observations.
+
+Product_Type: Nominal variable representing the type of product advertised (e.g., Electronics, Clothing, Beauty).
+
+Ad_Type: Nominal variable indicating the type of advertisement (e.g., Display, Video).
+
+Ad_Slot: Nominal variable specifying the ad placement (e.g., Top, Side, Bottom).
+
+Impressions: Continuous variable representing the number of times the ad was viewed.
+
+Clicks: Continuous variable indicating the number of times users clicked on the ad.
+
+CTR (Click-Through Rate): Calculated as Clicks/Impressions * 100, represents the percentage of viewers who clicked on the ad.
+
+Sales: Discrete variable indicating the number of products sold as a result of the advertising.
+
+Revenue: Continuous variable representing the revenue generated from the sales.
+
+Region: Nominal variable specifying the geographic region of the advertising campaign (e.g., North, South, East, West).
+
+The dataset is designed to simulate a relationship between advertising variables over time, allowing for analysis and exploration of patterns and trends in advertising performance.
